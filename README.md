@@ -2,6 +2,22 @@
 Hjælp til refusion af trappevask opkrævning
 
 # Baggrund
+En Højesteretsdom fra 2009 afgjorde at en udlejer kun må opkræve vand, varme og el vedsiden af den samlede husleje. Dvs. der ikke er lovhjemmel til at opkræve for eksempelvis *trappevask*, *snerydning* mv.
+
+Min kæreste og jeg havde lejet en lejlighed igennem **Wagner Ejendomme** i perioden september 2013 - oktober 2015 og vores husleje opkrævning så således ud:  
+``` text
+PERIODE: 01-11-2014 - 30-11-2014                            
+HUSLEJE.                                            8.100,00
+A CONTO VAND.                                         500,00
+A CONTO VARME.                                        600,00
+TRAPPEVASK.                                            95,00
+                                                  ----------
+I ALT                                               9.295,00
+                                                  ==========
+```
+
+26 * 95 => 2.470
+
 
 # Fremgangsmåde
 1. Udfyld de fremhævede felt i brevet og bilaget.
